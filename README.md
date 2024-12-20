@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there , My name is Fabian Urteaga👋
 
-<!--
-**Fabian1808/Fabian1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 🔧 **Industrial Engineer** with a passion for optimizing processes and improving efficiency.
+- 📊 **Data Analyst** skilled in extracting insights from data to drive decision-making.
+- 🌐 **Web Designer** with a knack for creating user-friendly and visually appealing websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+
+- 🚀 Developing innovative solutions to streamline industrial operations.
+- 📈 Analyzing data to uncover trends and patterns that inform business strategies.
+- 💻 Designing and maintaining websites for various clients.
+
+### Learning & Growth
+
+- 🌱 Continuously expanding my knowledge in data science and machine learning.
+- 📚 Exploring new web design trends and technologies to enhance my skills.
+
+### Let's Connect
+
+- 💬 Feel free to ask me about industrial engineering, data analysis, or web design.
+- 📫 You can reach me at: [your email]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and exploring new places in my free time.
